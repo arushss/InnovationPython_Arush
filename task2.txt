@@ -4,3 +4,5 @@ Answers required for task 2:
 Github is a server which is commonly used to save the repository. Github is commonly used for maintaining the codes.
 
 3) Git Workflow is a method where one can use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistenly. Git offers a lot of flexibility in how users manage changes. (Source: atlassian webpage)
+
+4) Two types of version control system are available: centralized and distributed.
