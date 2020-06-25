@@ -1,4 +1,6 @@
 Answers required for task 2:
 
 2) The difference between Git and Github is that Git is a one of the version control system where we can keep track of the changes happening in the repository.
-Github is a server which is commonly used to save the repository. Github is commonly used for maintaining the codes.					
+Github is a server which is commonly used to save the repository. Github is commonly used for maintaining the codes.
+
+3) Git Workflow is a method where one can use Git to accomplish work in a consistent and productive manner. Git workflows encourage users to leverage Git effectively and consistenly. Git offers a lot of flexibility in how users manage changes. (Source: atlassian webpage)
