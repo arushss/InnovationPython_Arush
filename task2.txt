@@ -1,0 +1,4 @@
+Answers required for task 2:
+
+2) The difference between Git and Github is that Git is a one of the version control system where we can keep track of the changes happening in the repository.
+Github is a server which is commonly used to save the repository. Github is commonly used for maintaining the codes.					
